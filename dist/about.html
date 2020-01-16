@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+      crossorigin="anonymous">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Start off-canvas -->
+    <div id="mySidenav" class="sidenav">
+      <nav>
+        <div class="closebtn">
+          <span><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a></span>
+        </div>
+        <div class="portrait">
+          <img src="img/vic.jpg" alt="picture of victor" width="100%" height="auto">
+        </div>
+        <ul class="menu">
+          <li><a href="index.html" onclick="closeNav()">Home</a></li>
+          <li><a href="about.html" onclick="closeNav()">About</a></li>
+          <li><a href="portfolio.html" onclick="closeNav()">Portfolio</a></li>
+          <li><a href="cv.html" onclick="closeNav()">CV</a></li>
+          <li><a href="contact.html" onclick="closeNav()">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <!-- End off-canvas -->
+
+    <main>
+      <header>
+        <div class="menu-button">
+          <span class="mobile-button" onclick="openNav()">&#9776;</span>
+        </div>
+      </header>
+      <div class="about">
+        <h1>About <span class="yellow">Me</span></h1>
+        <div class="portrait">
+          <img src="img/vic.jpg" alt="picture of victor" width="100%" height="auto">
+        </div>
+        <p>I am a full-stack programmer and I love code. I can build solutions for individuals, small businesses and scale all the way up to large corprates.</p>
+        <h2><span class="yellow">Technologies</span></h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JS</li>
+          <li>SCSS</li>
+          <li>PHP</li>
+          <li>React</li>
+          <li>Wordpress</li>
+          <li>SQL</li>
+          <li>MongoDB</li>
+        </ul>
+      </div>
+    </main>
+    <footer>
+      <p>Copyright &copy; <script>document.write(new Date().getFullYear());</script></p>
+    </footer>
+    <script src="js/app.js" async defer></script>
+  </body>
+</html>
