@@ -421,23 +421,47 @@ body {
             margin: 1rem; }
             body main.homepage .text-box .social a:hover, body main.homepage .text-box .social a:focus, body main.homepage .text-box .social a:active {
               color: #eece1a; }
-    body main .about {
+    body main .body-content {
       display: flex;
       flex-direction: column;
       padding: 1.5rem;
+      max-width: 1200px;
+      margin: 0 auto;
       margin-top: 4rem;
       width: 100%; }
-      body main .about h1 {
+      body main .body-content h1 {
         font-size: 4rem;
         margin-bottom: 2rem;
         text-align: center; }
-      body main .about .portrait img {
+      body main .body-content .portrait img {
         max-width: 150px; }
-      body main .about p {
+      body main .body-content p {
         color: #cecece;
         line-height: 1.5;
         font-size: 1.2rem;
         margin-bottom: 1rem; }
+      body main .body-content h2 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+        margin-top: 2rem; }
+      body main .body-content .tech_card {
+        display: flex;
+        background: #191919;
+        border-bottom: 3px solid #edd043;
+        margin-bottom: 1rem;
+        border-radius: 0.5rem; }
+        body main .body-content .tech_card .icon {
+          padding: 1rem;
+          width: 100%;
+          max-width: 50px; }
+        body main .body-content .tech_card .tech_title {
+          display: flex;
+          width: 100%;
+          align-items: flex-end;
+          color: #eece1a;
+          font-size: 2rem;
+          padding: 1rem;
+          align-self: stretch; }
     body main .yellow {
       color: #eece1a; }
   body footer {
@@ -453,3 +477,22 @@ body {
       border: 5px solid #eece1a;
       border-radius: 50%;
       max-width: 100px; }
+
+@media screen and (min-width: 600px) {
+  body {
+    font-size: 1.2rem; }
+    body main.homepage {
+      align-items: start; }
+    body main .body-content .tech_container {
+      display: flex;
+      flex-wrap: wrap; }
+      body main .body-content .tech_container .tech_card {
+        flex-direction: column;
+        width: 100%;
+        max-width: 200px;
+        margin-right: 2rem;
+        margin-bottom: 2rem;
+        justify-content: space-between;
+        align-items: center; }
+        body main .body-content .tech_container .tech_card .icon {
+          max-width: 100px; } }
