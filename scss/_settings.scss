@@ -5,6 +5,7 @@ $white: #fefefe;
 $gray: #cecece;
 $yellow: #eece1a;
 $dark-gray: #191919;
+$red: #ff0000;
 $home-image: url(../img/background.jpg);
 $body-font: 'Hind Vadodara', sans-serif;
 $header-font: 'Aref Ruqaa', serif;
@@ -16,4 +17,8 @@ h4,
 h5,
 h6 {
   font-family: $header-font;
+}
+
+a {
+	text-decoration: none;
 }
