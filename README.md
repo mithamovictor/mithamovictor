@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vic
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Vic
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mithamovictor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -74,6 +74,11 @@
 ## 📫 Let's Connect
 - 🌐 Portfolio: [https://mithamo.cc](https://mithamo.cc)
 - 📧 Email: [hello@mithamo.cc](mailto:hello@mithamo.cc)  
+
+---
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mithamovictor"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mithamovictor" /></a></p>
 
 ---
 
