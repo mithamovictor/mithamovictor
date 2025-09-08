@@ -26,7 +26,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="left" style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap; width: 100%;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </div>
