@@ -51,7 +51,7 @@ I am a passionate **Fullstack Web Developer** with hands-on experience in design
 
 ## 📌 Featured Skills
 - Fullstack Application Development  
-- RESTful & GraphQL APIs  
+- RESTful APIs  
 - Microservices & Monolithic Architectures  
 - Authentication & Authorization (JWT, OAuth2, Keycloak)  
 - CI/CD Automation & Cloud Deployments  
