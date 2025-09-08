@@ -16,9 +16,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="coding gif" width="200" />
 </div>
-
+<br/>
 <p align="center">
   I am a passionate <b>Fullstack Web Developer</b> with hands-on experience in designing, developing, and deploying scalable web applications.  
+</p>
+<p align="center">
   My focus is on building <b>high-performance, secure, and user-friendly</b> applications using modern frameworks and clean architectures.  
 </p>
 
