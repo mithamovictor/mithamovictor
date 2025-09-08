@@ -1,13 +1,24 @@
 # 👋 Hi, I'm Vic
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithamovictor&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mithamovictor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
 
 🚀 **Fullstack Web Developer** | ⚡ Specializing in **Next.js, NestJS & Spring Boot**
 
 ---
 
 ## 💡 About Me
-I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications. My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.   
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; padding-right: 20px;">
+    I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications.  
+    My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.  
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpzZ2V0Mm1mbmFyd2R2NHgwdW0yMTY0Nmo3dDlibWs5aHNocG5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="coding gif" width="250"/>
+  </div>
+</div> 
 
 ---
 
