@@ -22,6 +22,15 @@ My focus is on building **high-performance, secure, and user-friendly** applicat
 
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithamovictor&theme=radical" alt="GitHub Streak"/>
+</div>
+
 
 ---
 
