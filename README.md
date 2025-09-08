@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Victor Mithamo
 
 🚀 **Fullstack Web Developer** | ⚡ Specializing in **Next.js, NestJS & Spring Boot**
 
@@ -6,7 +6,17 @@
 
 ## 💡 About Me
 I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications.  
-My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.  
+My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.   
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithamovictor&theme=radical)
+
+---
 
 - 🖥️ Frontend: Crafting seamless user experiences with **Next.js**, React, and modern UI libraries.
 - ⚙️ Backend: Developing robust and scalable APIs with **NestJS** and **Spring Boot**.
@@ -41,26 +51,9 @@ My focus is on building **high-performance, secure, and user-friendly** applicat
 
 ---
 
-## 📂 Featured Projects
-🔹 [**Project 1 Name**](#) – Short description of the project and tech used.  
-🔹 [**Project 2 Name**](#) – Short description of the project and tech used.  
-🔹 [**Project 3 Name**](#) – Short description of the project and tech used.  
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithamovictor&theme=radical)
-
----
-
 ## 📫 Let's Connect
-- 🌐 Portfolio: [your-portfolio-link](#)  
-- 💼 LinkedIn: [your-linkedin-link](#)  
-- 🐦 Twitter: [your-twitter-link](#)  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 🌐 Portfolio: [https://mithamo.cc](https://mithamo.cc)
+- 📧 Email: [hello@mithamo.cc](mailto:hello@mithamo.cc)  
 
 ---
 
