@@ -10,22 +10,23 @@
 
 ## 💡 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px; padding-right: 20px;">
-    I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications.  
-    My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.  
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://media.giphy.com/media/l41lUR5urK4IAk3V6/giphy.gif?cid=ecf05e4780tas0uduw6z8b7pfwh6brbhk7yj70svfmswu30f&rid=giphy.gif&ct=g" />
-<!--     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpzZ2V0Mm1mbmFyd2R2NHgwdW0yMTY0Nmo3dDlibWs5aHNocG5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="coding gif" width="250"/> -->
-  </div>
-</div>
+<table border="0" style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://media.giphy.com/media/j7k6JOp8LufhXspVfu/giphy.gif" alt="coding gif" width="250"/>
+    </td>
+    <td style="border: none;">
+      I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications.  
+      My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.  
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; width: 100%;">
+<div align="left" style="display: flex; justify-content: left; gap: 20px; flex-wrap: wrap; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </div>
