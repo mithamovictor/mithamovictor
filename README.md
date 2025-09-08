@@ -16,7 +16,8 @@
     My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.  
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpzZ2V0Mm1mbmFyd2R2NHgwdW0yMTY0Nmo3dDlibWs5aHNocG5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="coding gif" width="250"/>
+    <img src="https://media.giphy.com/media/l41lUR5urK4IAk3V6/giphy.gif?cid=ecf05e4780tas0uduw6z8b7pfwh6brbhk7yj70svfmswu30f&rid=giphy.gif&ct=g" />
+<!--     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpzZ2V0Mm1mbmFyd2R2NHgwdW0yMTY0Nmo3dDlibWs5aHNocG5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="coding gif" width="250"/> -->
   </div>
 </div>
 
