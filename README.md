@@ -38,16 +38,26 @@
 <div align="center">
 
 <b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" />
 
 <b>Backend</b><br/>
 <img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,express" />
 
-<b>Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<b>Databases & Messaging</b><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<br/>
+<img src="https://img.shields.io/badge/h2-007ACC?style=for-the-badge&logo=h2&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="40"/>
 
 <b>DevOps / Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,linux,ubuntu" />
+  <br />
+  <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
+</p>
 
 </div>
 
