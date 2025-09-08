@@ -12,17 +12,7 @@ My focus is on building **high-performance, secure, and user-friendly** applicat
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical) |
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mithamovictor&theme=radical)
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=mithamovictor&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithamovictor&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </div>
