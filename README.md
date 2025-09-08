@@ -7,8 +7,7 @@
 ---
 
 ## 💡 About Me
-I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications.  
-My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.   
+I am a passionate **Fullstack Web Developer** with hands-on experience in designing, developing, and deploying scalable web applications. My focus is on building **high-performance, secure, and user-friendly** applications using modern frameworks and clean architectures.   
 
 ---
 
