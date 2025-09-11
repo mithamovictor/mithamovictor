@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" />
 
 <b>Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,express,java,php" />
 
 <b>Databases & Messaging</b><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
